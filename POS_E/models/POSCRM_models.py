@@ -9,5 +9,5 @@ class poscrm(models.Model):
 class poscrm_contact_template(models.Model):
     _inherit = 'res.partner'
     _name = 'res.partner'
-        _order = "create_date desc"
+    _order = "create_date desc"
 res_partner()
