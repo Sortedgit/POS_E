@@ -7,6 +7,7 @@
     'website': "http://www.sortedpixel.com",
     'version': '0.1',
     'license': 'OPL-1',
+    'category': 'Point of Sale',
     'depends': ['base','point_of_sale'],
     'images': ['images/main_screenshot.jpg'],
     'data': ['views/POSCRM_views.xml'],
